@@ -1,4 +1,5 @@
-##Hey, I'm Barkha Pawar! 👋<br>
+<strong>Hey, I'm Barkha Pawar! 👋</strong><br><br>
+
 -🔭 I’m currently working on My Portfolio.<br>
 -🌱 I’m currently learning more about Java.<br>
 -👯 I’m looking to collaborate on some major projects.<br>
