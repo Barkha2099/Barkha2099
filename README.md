@@ -22,6 +22,7 @@
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/css-3.svg"></code>
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/javascript.svg"></code>
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/mysql.svg"></code>
+<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/c.svg"></code>
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/c-plusplus.svg"></code>
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/java.svg"></code>
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/python.svg"></code>
