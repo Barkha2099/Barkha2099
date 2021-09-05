@@ -21,10 +21,12 @@
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/html-5.svg"></code>
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/css-3.svg"></code>
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/javascript.svg"></code>
-<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/react.svg"></code>
-<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/nodejs-icon.svg"></code>
-<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/mongodb.svg"></code>
-<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/mysql.svg"></code><br>
+<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/mysql.svg"></code>
+<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/c-plusplus.svg"></code>
+<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/java.svg"></code>
+<code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/python.svg"></code>
+
+<br>
 <br>
 
 <strong><strong>What if you like my work? 🤩 </strong></strong><br>
