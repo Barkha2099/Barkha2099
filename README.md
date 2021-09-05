@@ -27,7 +27,6 @@
 <code><img height="40" src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/python.svg"></code>
 
 <br>
-<br>
 
 <strong><strong>What if you like my work? 🤩 </strong></strong><br>
 
