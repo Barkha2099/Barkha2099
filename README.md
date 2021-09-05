@@ -3,7 +3,7 @@
 <h3><strong><strong>Have any Project in mind? <strong>Say Hello at:</strong> </strong></strong></h3>
 
 <a href="https://www.linkedin.com/in/barkha-pawar-773514211/"><img src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/linkedin.png" width="40"/></a>
-<a href="https://github.com/Barkha2099"><img src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/github-logo.png" width="40"/></a>
+<a href="https://github.com/Barkha2099"><img src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/github-octocat.svg" width="40"/></a>
 <a href="mailto:barkhapawar2099@gmail.com"><img src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/google-plus.png" width="40"/></a>
 <a href="https://instagram.com/__b_a_r_k_h_a__/"><img src="https://github.com/Barkha2099/Barkha2099/blob/main/logos/instagram.png" width="40"/></a><br>
 
